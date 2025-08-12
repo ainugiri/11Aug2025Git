@@ -38,4 +38,13 @@ git status:
 
 modify a file:
     - if you modify a file after adding it to staging area, it is modified but not staged.
-    - you can add the modified file to staging area again using git add <file>.
+    - you can add the modified file to staging area again using git add <file>.'
+
+
+    142312082025
+    142312082025
+    142312082025
+    142312082025
+    142312082025
+    142312082025
+    142312082025
